@@ -1,0 +1,2 @@
+# ai-studybuddy
+web project
